@@ -1,3 +1,3 @@
 # Hackrubikafake-filterfake
-#راه اندازی
+راه اندازی
 pkg install python      git clone https://github.com/TRHosseinbarana/Hackrubikafake-filterfake.git   python hack.py
